@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.atitan.tech">
-    <img src="https://img.atitan.tech/devices/splitr/ghost-white/SplitR - V2.0 - ghost White - 4K-3 - CROPPED - Atitan.PNG" alt="splitR by atitan" width="480" />
+    <img src="https://cdn.atitan.tech/devices/splitr/ghost-white/SplitR - V2.0 - ghost White - 4K-3 - CROPPED - Atitan.PNG" alt="splitR by atitan" width="480" />
   </a>
 </p>
 
@@ -33,8 +33,8 @@ We're a team of eight harnessing **Auracast** and **LE Audio over Bluetooth Low 
 ### splitR™ — Wireless Audio Adapter
 
 <p align="center">
-  <img src="https://img.atitan.tech/devices/splitr/ghost-white/SplitR - V2.0 - ghost White - 4K-6 - Atitan.png" alt="splitR Ghost White" width="320" />
-  <img src="https://img.atitan.tech/devices/splitr/eerie-black/SplitR - V2.0 - Eerie Black - 4K-6 - Atitan.png" alt="splitR Midnight Black" width="320" />
+  <img src="https://cdn.atitan.tech/devices/splitr/ghost-white/SplitR - V2.0 - ghost White - 4K-6 - Atitan.png" alt="splitR Ghost White" width="320" />
+  <img src="https://cdn.atitan.tech/devices/splitr/eerie-black/SplitR - V2.0 - Eerie Black - 4K-6 - Atitan.png" alt="splitR Midnight Black" width="320" />
 </p>
 
 A standalone device that originates Auracast broadcasts, receives them, or bridges wired and wireless audio — extending any legacy speaker system into an Auracast network. Available in **Ghost White** and **Midnight Black**.
@@ -46,7 +46,7 @@ A standalone device that originates Auracast broadcasts, receives them, or bridg
 ### connectR™ — Unified Audio App
 
 <p align="center">
-  <img src="https://img.atitan.tech/software/connectr/connectr-apps.png" alt="connectR app" width="480" />
+  <img src="https://cdn.atitan.tech/software/connectr/connectr-apps.png" alt="connectR app" width="480" />
 </p>
 
 One app to unify **Apple Music, Spotify, Tidal, and SoundCloud**. Queue music from any service, create group listening sessions, share playlists across platforms, and manage all your connected devices.
@@ -65,16 +65,16 @@ Auracast-powered solutions for **museums, retail, hospitality, fitness, airports
 
 <table>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/cayden-colasse"><img src="https://img.atitan.tech/company/team-headshots/cayden.jpeg" width="100" style="border-radius:50%" alt="Cayden"/><br/><b>Cayden Colasse</b></a><br/>Founder & CEO</td>
-    <td align="center"><a href="https://www.linkedin.com/in/tylew"><img src="https://img.atitan.tech/company/team-headshots/tyler.png" width="100" style="border-radius:50%" alt="Tyler"/><br/><b>Tyler Lewis</b></a><br/>Co-Founder & CTO</td>
-    <td align="center"><a href="https://www.linkedin.com/in/arkadiusz-grzelka-244402114"><img src="https://img.atitan.tech/company/team-headshots/ark.jpeg" width="100" style="border-radius:50%" alt="Ark"/><br/><b>Arkadiusz Grzelka</b></a><br/>Embedded Firmware</td>
-    <td align="center"><a href="https://www.linkedin.com/in/christianreyessantos"><img src="https://img.atitan.tech/company/team-headshots/christian.jpeg" width="100" style="border-radius:50%" alt="Christian"/><br/><b>Christian Reyes Santos</b></a><br/>Mobile Engineer</td>
+    <td align="center"><a href="https://www.linkedin.com/in/cayden-colasse"><img src="https://cdn.atitan.tech/company/team-headshots/cayden.jpeg" width="100" style="border-radius:50%" alt="Cayden"/><br/><b>Cayden Colasse</b></a><br/>Founder & CEO</td>
+    <td align="center"><a href="https://www.linkedin.com/in/tylew"><img src="https://cdn.atitan.tech/company/team-headshots/tyler.png" width="100" style="border-radius:50%" alt="Tyler"/><br/><b>Tyler Lewis</b></a><br/>Co-Founder & CTO</td>
+    <td align="center"><a href="https://www.linkedin.com/in/arkadiusz-grzelka-244402114"><img src="https://cdn.atitan.tech/company/team-headshots/ark.jpeg" width="100" style="border-radius:50%" alt="Ark"/><br/><b>Arkadiusz Grzelka</b></a><br/>Embedded Firmware</td>
+    <td align="center"><a href="https://www.linkedin.com/in/christianreyessantos"><img src="https://cdn.atitan.tech/company/team-headshots/christian.jpeg" width="100" style="border-radius:50%" alt="Christian"/><br/><b>Christian Reyes Santos</b></a><br/>Mobile Engineer</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/matthew-graham-aa0b08205"><img src="https://img.atitan.tech/company/team-headshots/matthew.jpeg" width="100" style="border-radius:50%" alt="Matthew"/><br/><b>Matthew Graham</b></a><br/>Web Development</td>
-    <td align="center"><a href="https://www.linkedin.com/in/moshekc47"><img src="https://img.atitan.tech/company/team-headshots/moshe.jpeg" width="100" style="border-radius:50%" alt="Moshe"/><br/><b>Moshe KC</b></a><br/>Business Development</td>
-    <td align="center"><a href="https://www.linkedin.com/in/joaquin-t-39162728a"><img src="https://img.atitan.tech/company/team-headshots/joaquin.jpeg" width="100" style="border-radius:50%" alt="Joaquin"/><br/><b>Joaquin T</b></a><br/>Operations</td>
-    <td align="center"><a href="https://www.linkedin.com/in/makai-harris"><img src="https://img.atitan.tech/company/team-headshots/makai.jpeg" width="100" style="border-radius:50%" alt="Makai"/><br/><b>Makai Harris</b></a><br/>Marketing</td>
+    <td align="center"><a href="https://www.linkedin.com/in/matthew-graham-aa0b08205"><img src="https://cdn.atitan.tech/company/team-headshots/matthew.jpeg" width="100" style="border-radius:50%" alt="Matthew"/><br/><b>Matthew Graham</b></a><br/>Web Development</td>
+    <td align="center"><a href="https://www.linkedin.com/in/moshekc47"><img src="https://cdn.atitan.tech/company/team-headshots/moshe.jpeg" width="100" style="border-radius:50%" alt="Moshe"/><br/><b>Moshe KC</b></a><br/>Business Development</td>
+    <td align="center"><a href="https://www.linkedin.com/in/joaquin-t-39162728a"><img src="https://cdn.atitan.tech/company/team-headshots/joaquin.jpeg" width="100" style="border-radius:50%" alt="Joaquin"/><br/><b>Joaquin T</b></a><br/>Operations</td>
+    <td align="center"><a href="https://www.linkedin.com/in/makai-harris"><img src="https://cdn.atitan.tech/company/team-headshots/makai.jpeg" width="100" style="border-radius:50%" alt="Makai"/><br/><b>Makai Harris</b></a><br/>Marketing</td>
   </tr>
 </table>
 
