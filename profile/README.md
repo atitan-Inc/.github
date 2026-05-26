@@ -39,7 +39,7 @@ We're a team of eight harnessing **Auracast** and **LE Audio over Bluetooth Low 
 
 A standalone device that originates Auracast broadcasts, receives them, or bridges wired and wireless audio — extending any legacy speaker system into an Auracast network. Available in **Ghost White** and **Midnight Black**.
 
-- Up to **90 ft** range · **12 hr** transmit / **16 hr** receive battery life
+- Up to **150 meters** range · **12 hr** transmit / **16 hr** receive battery life
 - 3.5mm aux & RCA connections · USB-C charging
 - Setup in under 5 minutes — no wires, no limits
 
